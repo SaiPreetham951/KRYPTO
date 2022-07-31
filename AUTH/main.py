@@ -1,3 +1,6 @@
+#Second Take Code
+
+
 import hashlib
 import datetime
 import pymongo
